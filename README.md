@@ -45,7 +45,7 @@ Change into the `server` directory and configure the `FLASK_APP` and
 ```console
 $ cd server
 $ export FLASK_APP=app.py
-$ export FLASK_RUN_PORT=5555
+$ [export FLASK_RUN_PORT=5555]
 ```
 
 The file `server/models.py` defines 3 models named `Employee`, `Review`, and
